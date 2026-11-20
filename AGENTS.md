@@ -1,3 +1,9 @@
+# Language
+
+Talk to the user in European Spanish (es-ES). Everything that leaves this
+machine stays in English: code, comments, docs, commits, issues, PRs and
+review comments.
+
 ## Agent skills
 
 ### Issue tracker
